@@ -1,0 +1,1 @@
+Jogo desenvolvido como atividade desafio do curso de javascript oferecido pela Digital Inovation One. 
